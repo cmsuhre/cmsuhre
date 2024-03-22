@@ -1,7 +1,7 @@
 <h1>Hi, I'm Chris! <br> Cybersecurity Professional</a> </h1>
 Highly skilled cybersecurity leader with a track record of success in blue team competitions monitoring, investigating, detecting, and responding to real-world cyber attacks across Linux and Windows operating systems. Seeking a full-time role to apply my skills in identifying and remediating vulnerabilities to enhance security postures.
 
-<br> Led a team of 8 students to compete in the Midwest Collegiate Cyber Defense Competitions (MWCCDC), defending 10 machines - 7 servers, 2 workstations, and Palo Alto Firewall, against professionally skilled and certified red team hackers. 
+<br> Led a team of 8 students to compete in the Midwest Collegiate Cyber Defense Competitions (MWCCDC), defending 10 machines - 7 servers, 2 workstations, and Palo Alto Firewall, against certified professional red team hackers.
  
 
 <h2> 🎓 Education </h2>
