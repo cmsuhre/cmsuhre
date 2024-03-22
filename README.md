@@ -4,6 +4,14 @@ Highly skilled cybersecurity leader with a track record of success in blue team 
 <br> Led a team of 8 students to compete in the Midwest Collegiate Cyber Defense Competitions (MWCCDC), defending 10 machines - 7 servers, 2 workstations, and Palo Alto Firewall, against professionally skilled and certified red team hackers. 
 Secured 3rd place and 6th overall in the Midwest region competing in the 2024 CSSIA Midwest State Qualifier Cyber Defense Competition. 
 
+<h2> 🎓 Education </h2>
+<br> 
+2021 - 2023	University of Missouri-St. Louis						St. Louis, MO	
+Master’s in Business Administration
+Emphasis in Cybersecurity					GPA: 3.8/4
+
+
+
  <h2>📄Professional Development & Certifications:</h2>
  
   - [Udemy - Complete Ethical Hacking Bootcamp](https://www.udemy.com/certificate/UC-decee760-279e-44f8-ae91-6fe20473a3e6/)
