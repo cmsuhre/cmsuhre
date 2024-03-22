@@ -1,6 +1,6 @@
 <h1>Hi, I'm Chris! <br> Cybersecurity Professional</a> </h1>
 Highly skilled cybersecurity leader with a track record of success in blue team competitions monitoring, investigating, detecting, and responding to real-world cyber attacks across Linux and Windows operating systems. Seeking a full-time role to apply my skills in identifying and remediating vulnerabilities to enhance security postures.
-
+<br>
 Test
  <h2>📄Professional Development & Certifications:</h2>
  
