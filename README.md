@@ -1,7 +1,9 @@
 <h1>Hi, I'm Chris! <br> Cybersecurity Professional</a> </h1>
 Highly skilled cybersecurity leader with a track record of success in blue team competitions monitoring, investigating, detecting, and responding to real-world cyber attacks across Linux and Windows operating systems. Seeking a full-time role to apply my skills in identifying and remediating vulnerabilities to enhance security postures.
 
-<br> Test
+<br> Led a team of 8 students to compete in the Midwest Collegiate Cyber Defense Competitions (MWCCDC), defending 10 machines - 7 servers, 2 workstations, and Palo Alto Firewall, against professionally skilled and certified red team hackers. 
+Secured 3rd place and 6th overall in the Midwest region competing in the 2024 CSSIA Midwest State Qualifier Cyber Defense Competition. 
+
  <h2>📄Professional Development & Certifications:</h2>
  
   - [Udemy - Complete Ethical Hacking Bootcamp](https://www.udemy.com/certificate/UC-decee760-279e-44f8-ae91-6fe20473a3e6/)
