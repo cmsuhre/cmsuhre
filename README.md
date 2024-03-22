@@ -2,7 +2,9 @@
 - 
  <h2>📄Certifications:</h2>
  
+  - [Udemy Complete Ethical Hacking Bootcamp](https://www.udemy.com/certificate/UC-decee760-279e-44f8-ae91-6fe20473a3e6/)
   - [Google Cybersecurity Professional](https://coursera.org/share/3cf93cc18aaeb7ed555e402d93da7709)
+  - [Udemy Linux Administration: The Complete Linux Bootcamp for 2023](https://www.udemy.com/certificate/UC-2c22cee7-5bd7-4dc1-b9dc-26e1eb7b5aed/)
 
 <!--
 
