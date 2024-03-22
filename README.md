@@ -1,6 +1,6 @@
 <h1>Hi, I'm Chris! <br> Cybersecurity Professional</a> </h1>
 - 
- <h2>📄Certifications:</h2>
+ <h2>📄Professional Development & Certifications:</h2>
  
   - [Udemy - Complete Ethical Hacking Bootcamp](https://www.udemy.com/certificate/UC-decee760-279e-44f8-ae91-6fe20473a3e6/)
   - [Google Cybersecurity Professional](https://coursera.org/share/3cf93cc18aaeb7ed555e402d93da7709)
