@@ -5,7 +5,7 @@ Highly skilled cybersecurity leader with a track record of success in blue team 
 Secured 3rd place and 6th overall in the Midwest region competing in the 2024 CSSIA Midwest State Qualifier Cyber Defense Competition. 
 
 <h2> 🎓 Education </h2>
-2021 - 2023	Master’s in Business Administration with Emphasis in Cybersecurity - University of Missouri-St. Louis <br> Activities: Team Captain, Collegiate Cyber Defense Team <br> GPA: 3.8/4
+2021 - 2023	Master’s in Business Administration - University of Missouri-St. Louis <br> Emphasis in Cybersecurity <br> Activities: Team Captain, Collegiate Cyber Defense Team <br> GPA: 3.8/4
 
 
 
