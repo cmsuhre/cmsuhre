@@ -1,4 +1,4 @@
-<h1>Hi, I'm Chris! <br/><a href="https://www.linkedin.com/in/chris-suhre/">Cybersecurity Professional!</a></h1>
+<h1>Hi, I'm Chris! <br/><a href="https://www.linkedin.com/in/chris-suhre/">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
