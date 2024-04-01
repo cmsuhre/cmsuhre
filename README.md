@@ -1,13 +1,11 @@
-<h1>Hi, I'm Chris! <br> Cybersecurity Professional</a> </h1>
-Highly skilled cybersecurity leader with a track record of success in blue team competitions monitoring, investigating, detecting, and responding to real-world cyber attacks across Linux and Windows operating systems. Seeking a full-time role to apply my skills in identifying and remediating vulnerabilities to enhance security postures.
+<h1>Hi, I'm Chris! <br/><a href="https://www.linkedin.com/in/chris-suhre/">Cybersecurity Professional!</a></h1>
 
-<br> Led a team of 8 students to compete in the Midwest Collegiate Cyber Defense Competitions (MWCCDC), defending 10 machines - 7 servers, 2 workstations, and Palo Alto Firewall, against certified professional red team hackers.
- 
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-<h2> 🎓 Education </h2>
-2021 - 2023	Master’s in Business Administration, University of Missouri-St. Louis <br>Emphasis in Cybersecurity, GPA: 3.8/4<br>Activities: Team Captain, Collegiate Cyber Defense Team <br>Secured 3rd place and 6th overall in the Midwest region competing in the 2024 CSSIA Midwest State Qualifier Cyber Defense Competition
-
-
+- <b>Azure Cloud SOC Project: Honeynets and SIEM</b>
+  - [Project Deep-Dive with Before and After Results](https://github.com/joshmadakor1/Algorithms-Practice)
+ - <b>University of Missouri-St. Louis Collegiate Cyber Defense Competition Resources</b>
+   -  [Bash Scripts for Automation & UMSL Blue Team Manual](https://github.com/cmsuhre/UMSL-CCDC-2024)
 
  <h2>📄Professional Development & Certifications:</h2>
  
