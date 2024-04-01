@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Azure Cloud SOC Project: Honeynets and SIEM</b>
-  - [Project Deep-Dive with Before and After Results](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Project Deep-Dive with Before and After Results](INSERT LINK)
  - <b>University of Missouri-St. Louis Collegiate Cyber Defense Competition Resources</b>
    -  [Bash Scripts for Automation & UMSL Blue Team Manual](https://github.com/cmsuhre/UMSL-CCDC-2024)
 
