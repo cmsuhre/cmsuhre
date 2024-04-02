@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Azure Cloud SOC Project: Honeynets and SIEM</b>
+- <b>Azure Cloud SOC Project: Honeynet and SIEM</b>
   - [Created a Live SOC/Honeynet in Azure](https://github.com/cmsuhre/Azure-SOC/tree/main)
  - <b>University of Missouri-St. Louis Collegiate Cyber Defense Competition Resources</b>
    -  [Bash Scripts for Automation & UMSL Blue Team Manual](https://github.com/cmsuhre/UMSL-CCDC-2024)
