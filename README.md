@@ -7,11 +7,6 @@
  - <b>University of Missouri-St. Louis Collegiate Cyber Defense Competition Resources</b>
    -  [Bash Scripts for Automation & UMSL Blue Team Manual](https://github.com/cmsuhre/UMSL-CCDC-2024)
 
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="ChrisSuhre | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/chris-suhre/
 <!--
 
 Here are some ideas to get you started:
